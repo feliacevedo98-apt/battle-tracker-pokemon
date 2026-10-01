@@ -1,6 +1,6 @@
 # Battle Tracker: Pokémon Champions & PP Counter
 
-![Version](https://img.shields.io/badge/Version-1.0.0-red.svg)
+![Version](https://img.shields.io/badge/Version-0.1-red.svg)
 ![Format](https://img.shields.io/badge/Format-Doubles%20%7C%20Singles-blue.svg)
 ![API](https://img.shields.io/badge/Data-Pok%C3%A9API-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)

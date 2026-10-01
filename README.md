@@ -17,13 +17,13 @@
   - Cambio de formato instantáneo preservando la información del combate.
 
 - **Gestión Precisa de PPs (Pokémon Champions):**
-  - Sistema de PPs adaptado a los límites y balance de Pokémon Champions (ej. *Protect* con 10 PPs).
-  - Botones intuitivos (`+1` / `-1`) para ajustar uso durante el combate y botón `PP Max`.
+  - Sistema de PPs adaptado a los límites y balance de Pokémon Champions (ej. *Protect* con 8 PPs).
+  - Botones intuitivos (`+1` / `-1`) para ajustar uso durante el combate.
   - Indicador visual con barra de color dinámica según el porcentaje de PPs restantes.
 
 - **Soporte Multilingüe:**
   - Selector de idioma en tiempo real: **English**, **Español (España)** y **Español (Latinoamérica)**.
-  - Identidad visual unificada con nombre e insignia (*Battle Tracker BT - Pokémon Champions & PP Counter*) universales.
+ 
 
 - **Información Flotante (Tooltips / Hover):**
   - Muestra detalles, categoría, efecto y precisión al pasar el cursor sobre **Movimientos**, **Habilidades** u **Objetos**.
